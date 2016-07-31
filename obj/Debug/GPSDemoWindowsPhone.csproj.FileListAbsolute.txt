@@ -1,0 +1,15 @@
+D:\Windows Phone Projects\GPSDemoWindowsPhone\Bin\Debug\ApplicationIcon.png
+D:\Windows Phone Projects\GPSDemoWindowsPhone\Bin\Debug\Background.png
+D:\Windows Phone Projects\GPSDemoWindowsPhone\Bin\Debug\GPSDemoWindowsPhone.dll
+D:\Windows Phone Projects\GPSDemoWindowsPhone\Bin\Debug\GPSDemoWindowsPhone.pdb
+D:\Windows Phone Projects\GPSDemoWindowsPhone\Bin\Debug\AppManifest.xaml
+D:\Windows Phone Projects\GPSDemoWindowsPhone\Bin\Debug\GPSDemoWindowsPhone.xap
+D:\Windows Phone Projects\GPSDemoWindowsPhone\obj\Debug\App.g.i.cs
+D:\Windows Phone Projects\GPSDemoWindowsPhone\obj\Debug\MainPage.g.i.cs
+D:\Windows Phone Projects\GPSDemoWindowsPhone\obj\Debug\GPSDemoWindowsPhone.g.resources
+D:\Windows Phone Projects\GPSDemoWindowsPhone\obj\Debug\GPSDemoWindowsPhone.dll
+D:\Windows Phone Projects\GPSDemoWindowsPhone\obj\Debug\GPSDemoWindowsPhone.pdb
+D:\Windows Phone Projects\GPSDemoWindowsPhone\obj\Debug\XapCacheFile.xml
+D:\Windows Phone Projects\GPSDemoWindowsPhone\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Windows Phone Projects\GPSDemoWindowsPhone\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\Windows Phone Projects\GPSDemoWindowsPhone\obj\Debug\PivotPage1.g.i.cs
